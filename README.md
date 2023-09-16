@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Oyon Dormitory</title>
+<tytle>Oyon Dormitory</tytle>
 </head>
 <body style="background-color: yellow; ">
 <img src="F:\Mass maneger\30.jpg" width="100%" height="30%">
