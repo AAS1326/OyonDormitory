@@ -1,1 +1,19 @@
-# OyonDormitory
+<html>
+<head>
+<title>Oyon Dormitory</title>
+</head>
+<body style="background-color: yellow; ">
+<img src="F:\Mass maneger\30.jpg" width="100%" height="30%">
+<p align="center"><font size="5"><b><a href="file:///F:/Mass%20maneger/Oyon%20Dormitory.html">HOME</a></b> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b><a href="file:///F:/Mass%20maneger/Mill's%20Accounts.html">MILL'S ACCOUNT</a></b> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b><a href="file:///F:/Mass%20maneger/Payments.html">PAYMENT</a></b> &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; <b><a href="file:///F:/Mass%20maneger/Cost.html">COST</a></b></font></P>
+<p align="center"> <font size="5"><b><u> Summary of Accounts:-</u></b></font></p>
+<table border="7" cellspacing="3" align="center" width="30%" height="50%">
+<tr>
+<th><font size="5">TOTAL BALLANCE</font></th><th><font size="5">TOTAL COST</font></th><th><font size="5">AVAILABLE BALLANCE</font></th>
+</tr>
+<tr height="50%">
+<th><font size="5"><br></font></th><th><font size="5"><br></font></th><th><font size="5"><br></font></th>
+</tr>
+
+
+</body>
+</html>
